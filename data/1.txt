@@ -1,0 +1,7 @@
+Python is a high-level, general-purpose programming language designed for readability and simplicity.  Created by Guido van Rossum and first released in 1991, Python emphasizes code clarity with its use of significant indentation instead of braces to define code blocks.  It is interpreted, meaning code runs line by line, enabling fast development and debugging. 
+
+Python supports multiple programming paradigms—object-oriented, procedural, functional, and structured—making it versatile for various applications.  Its dynamic typing and garbage collection simplify coding, while its extensive standard library and rich ecosystem of third-party packages (like NumPy, pandas, Django, and TensorFlow) allow developers to build web applications, analyze data, automate tasks, and develop artificial intelligence systems with minimal effort. 
+
+Python is cross-platform, running on Windows, macOS, Linux, and even mobile devices (Android, iOS).  It is widely used in web development, data science, machine learning, automation, scientific computing, and cybersecurity.  Its beginner-friendly syntax and strong community support make it a top choice for both new learners and experienced developers. 
+
+As of January 2026, the latest stable release is Python 3.14.2, with support for multiple versions (3.10–3.14) under a five-year support policy.  The language continues to evolve, with features like optional static typing introduced in Python 3.5.
